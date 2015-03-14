@@ -1,0 +1,54 @@
+.item 
+	{ 
+	position:absolute;
+	width: 16%;
+	margin:0.3%; 
+	padding: 0.1% 0.1% 0.1% 0.1%;
+	background:rgba(205,17,243,0.79); 
+	}
+.item.w2 
+	{ 
+	position:absolute;
+	width: 16%;
+	margin:0.3%; 
+	padding: 0.1% 6% 0.1% 6%;
+	background:rgba(45,175,22,0.79); 
+	text-align: left;
+		}
+menu 
+	{
+    color: white;
+    text-align:left;
+    padding: 0%;
+    margin: 0% 0% 0% 1%
+    }
+img
+	{   
+	position: relative;
+	margin: 9%;
+    padding: 10%;
+    height:    70;
+    width:   70;
+    
+    }
+desc 
+    {
+    text-align: left;
+    font-weight: normal;
+    width: 120px;
+    margin: 5px;
+    }
+rss 
+	{
+	color: white;
+    position: fixed;
+    right:2;
+    }
+.rssico
+	{
+	
+	position: fixed;
+	background:rgba(255,255,255,0);
+	right:0px;
+	top:0px;
+	}
