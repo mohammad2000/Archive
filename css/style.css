@@ -27,8 +27,8 @@ img
 	position: relative;
 	margin: 9%;
     padding: 10%;
-    height:    110;
-    width:   110;
+    height:    90;
+    width:   90;
     
     }
 desc 
@@ -46,7 +46,8 @@ rss
     }
 .rssico
 	{
-	
+	height:    70;
+    width:   70;
 	position: fixed;
 	background:rgba(255,255,255,0);
 	right:0px;
